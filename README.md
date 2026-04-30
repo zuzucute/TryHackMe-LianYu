@@ -1,5 +1,93 @@
 # TryHackMe-LianYu
 
+Objective
+to find a hidden flag.
+
+<img width="944" height="844" alt="Screenshot 2026-04-27 010745" src="https://github.com/user-attachments/assets/716d5594-a936-4a91-be2a-aac759d09c8e" />
+I download vpn from tryhackme
+
+<img width="795" height="22" alt="Screenshot 2026-04-27 010714" src="https://github.com/user-attachments/assets/6659a5a3-09a0-42a0-9768-f6c674c429fb" />
+
+<img width="473" height="165" alt="Screenshot 2026-04-27 005548" src="https://github.com/user-attachments/assets/a1e4a130-d8ee-4ffc-964a-79567044886c" />
+
+
+<img width="699" height="228" alt="Screenshot 2026-04-27 010851" src="https://github.com/user-attachments/assets/25570f07-e942-4590-8adf-0e8b62b51360" />
+
+<img width="953" height="864" alt="Screenshot 2026-04-27 010932" src="https://github.com/user-attachments/assets/e4803dc5-858e-4b44-ab93-e205dca826f8" />
+
+<img width="945" height="78" alt="Screenshot 2026-04-27 011009" src="https://github.com/user-attachments/assets/5fe51b96-c248-4071-9094-ce1901acfb30" />
+
+
+<img width="968" height="605" alt="Screenshot 2026-04-27 213422" src="https://github.com/user-attachments/assets/c57008d2-09fc-49dc-8e65-cbcca48cd709" />
+
+<img width="985" height="275" alt="Screenshot 2026-04-27 214040" src="https://github.com/user-attachments/assets/d7b03e3e-f2c0-425f-92ca-2c7819a714f0" />
+
+<img width="153" height="628" alt="Screenshot 2026-04-27 214647" src="https://github.com/user-attachments/assets/79888bbc-3ac7-484f-919c-36081c573a42" />
+
+<img width="307" height="175" alt="Screenshot 2026-04-27 214811" src="https://github.com/user-attachments/assets/0efe6e01-793c-4af6-a0ee-b6bf5ef7a435" />
+
+<img width="939" height="283" alt="Screenshot 2026-04-27 012640" src="https://github.com/user-attachments/assets/d04cd02d-4894-4218-9100-dfe9cb9e9fe0" />
+
+<img width="989" height="317" alt="Screenshot 2026-04-27 204648" src="https://github.com/user-attachments/assets/40f7421f-075f-4fdf-acf4-c8bcb03526bd" />
+
+<img width="1036" height="450" alt="Screenshot 2026-04-27 204739" src="https://github.com/user-attachments/assets/a3b15aca-dbbe-4121-83f7-6e1a29f12372" />
+
+<img width="1918" height="908" alt="Screenshot 2026-04-27 210016" src="https://github.com/user-attachments/assets/db83cd0d-6c86-403b-bc07-f5524d1b6219" />
+
+<img width="968" height="605" alt="Screenshot 2026-04-27 213422" src="https://github.com/user-attachments/assets/59138102-6974-4862-8281-8aec699eb14f" />
+
+
+<img width="619" height="229" alt="Screenshot 2026-04-27 214819" src="https://github.com/user-attachments/assets/0da16a47-5a95-47b0-801e-d98e35caedad" />
+
+<img width="382" height="70" alt="Screenshot 2026-04-27 215306" src="https://github.com/user-attachments/assets/3a658ab1-e977-4329-a0a2-9174eb90d268" />
+
+<img width="599" height="214" alt="Screenshot 2026-04-27 215316" src="https://github.com/user-attachments/assets/4dc2a0e2-dc8d-4357-b197-07b9251a3fb0" />
+
+<img width="559" height="171" alt="Screenshot 2026-04-27 215324" src="https://github.com/user-attachments/assets/9beb4af2-22c2-42bc-88d5-cafc57f517bb" />
+
+<img width="1910" height="524" alt="Screenshot 2026-04-27 215338" src="https://github.com/user-attachments/assets/2f15e025-bd20-4bf9-9f55-b251ffacab8d" />
+
+<img width="926" height="283" alt="Screenshot 2026-04-28 160050" src="https://github.com/user-attachments/assets/4fd11e51-cf67-4dc1-b645-92b28e4c6a9c" />
+
+<img width="201" height="39" alt="Screenshot 2026-04-28 160323" src="https://github.com/user-attachments/assets/381399f4-75df-49d0-8f90-973e336066b3" />
+
+<img width="451" height="110" alt="Screenshot 2026-04-28 162034" src="https://github.com/user-attachments/assets/e5a7ba74-bc74-4acf-b31c-eb2dfb8e8c22" />
+
+<img width="233" height="100" alt="Screenshot 2026-04-28 162121" src="https://github.com/user-attachments/assets/abed1c81-ef70-4aec-a544-a636eb2a4dfe" />
+
+<img width="673" height="232" alt="Screenshot 2026-04-28 162156" src="https://github.com/user-attachments/assets/54a673bc-24ea-4a7f-8b93-959bffa7108b" />
+
+<img width="184" height="80" alt="Screenshot 2026-04-28 162211" src="https://github.com/user-attachments/assets/edb68ca2-6c47-47ca-b687-f09ce255054f" />
+
+<img width="656" height="509" alt="Screenshot 2026-04-28 162508" src="https://github.com/user-attachments/assets/4410f429-486e-407d-92e9-9938c4d65bb3" />
+
+<img width="351" height="98" alt="Screenshot 2026-04-28 162535" src="https://github.com/user-attachments/assets/f38be2c8-9937-433b-81cc-2d3eeebd9fa2" />
+
+<img width="885" height="118" alt="Screenshot 2026-04-28 162719" src="https://github.com/user-attachments/assets/5d706163-8e96-4e06-98f2-0a682fbe70d0" />
+
+<img width="770" height="288" alt="Screenshot 2026-04-28 162901" src="https://github.com/user-attachments/assets/39d60bc6-19e9-4c95-822e-0aa9455d8d36" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
