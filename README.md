@@ -51,12 +51,7 @@ gobuster dir -u http://10.48.176.254 -w /usr/share/wordlists/dirbuster/directory
 <img width="945" height="78" alt="Screenshot 2026-04-27 011009" src="https://github.com/user-attachments/assets/5fe51b96-c248-4071-9094-ce1901acfb30" />
 
 finding :
-* /index.html
-<img width="473" height="165" alt="Screenshot 2026-04-27 005548" src="https://github.com/user-attachments/assets/a1e4a130-d8ee-4ffc-964a-79567044886c" />
-
-
-
-
+* /sland
 <img width="795" height="22" alt="Screenshot 2026-04-27 010714" src="https://github.com/user-attachments/assets/6659a5a3-09a0-42a0-9768-f6c674c429fb" />
 
 
