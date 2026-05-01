@@ -3,22 +3,62 @@
 Objective
 to find a hidden flag.
 
+
+I downloaded vpn from tryhackme website.
 <img width="944" height="844" alt="Screenshot 2026-04-27 010745" src="https://github.com/user-attachments/assets/716d5594-a936-4a91-be2a-aac759d09c8e" />
-I download vpn from tryhackme
 
-<img width="795" height="22" alt="Screenshot 2026-04-27 010714" src="https://github.com/user-attachments/assets/6659a5a3-09a0-42a0-9768-f6c674c429fb" />
+and then i run openvpn to connect with the vpn.
+```
+sudo openvpn ap-south-1-sitizulaika632-regular.ovpn
+```
+if it says 
+```
+Initialization Sequence Completed.
+```
+That means the vpn successfully connected.
 
+And then, I open tryhackme-LianYu to find the target ip address.
+<img width="699" height="228" alt="Screenshot 2026-04-27 010851" src="https://github.com/user-attachments/assets/25570f07-e942-4590-8adf-0e8b62b51360" />
+
+```
+target ip address : 10.48.176.245
+```
+
+<img width="968" height="372" alt="Screenshot 2026-04-27 213422" src="https://github.com/user-attachments/assets/0d324d72-76e8-4178-b899-e248ac6a12a7" />
+
+to verify whether kali has connect with the vpn or not i run this command
+```
+ip a
+```
+
+i use nmap to scan open port.
+
+```
+nmap -sC -sV -Pn -vv 10.48.176.254
+```
+<img width="953" height="864" alt="Screenshot 2026-04-27 010932" src="https://github.com/user-attachments/assets/e4803dc5-858e-4b44-ab93-e205dca826f8" />
+
+i visit http://target_ip then i found ARROWVERSE page.
+```
+http://10.48.176.254
+```
+<img width="1100" height="754" alt="image" src="https://github.com/user-attachments/assets/07a128ae-b87b-4778-b5b8-820b99fab7dc" />
+
+i use gobuster to brute force hidden resource on a target ip.
+```
+gobuster dir -u http://10.48.176.254 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+```
+<img width="945" height="78" alt="Screenshot 2026-04-27 011009" src="https://github.com/user-attachments/assets/5fe51b96-c248-4071-9094-ce1901acfb30" />
+
+finding :
+* /index.html
 <img width="473" height="165" alt="Screenshot 2026-04-27 005548" src="https://github.com/user-attachments/assets/a1e4a130-d8ee-4ffc-964a-79567044886c" />
 
 
-<img width="699" height="228" alt="Screenshot 2026-04-27 010851" src="https://github.com/user-attachments/assets/25570f07-e942-4590-8adf-0e8b62b51360" />
-
-<img width="953" height="864" alt="Screenshot 2026-04-27 010932" src="https://github.com/user-attachments/assets/e4803dc5-858e-4b44-ab93-e205dca826f8" />
-
-<img width="945" height="78" alt="Screenshot 2026-04-27 011009" src="https://github.com/user-attachments/assets/5fe51b96-c248-4071-9094-ce1901acfb30" />
 
 
-<img width="968" height="605" alt="Screenshot 2026-04-27 213422" src="https://github.com/user-attachments/assets/c57008d2-09fc-49dc-8e65-cbcca48cd709" />
+<img width="795" height="22" alt="Screenshot 2026-04-27 010714" src="https://github.com/user-attachments/assets/6659a5a3-09a0-42a0-9768-f6c674c429fb" />
+
 
 <img width="985" height="275" alt="Screenshot 2026-04-27 214040" src="https://github.com/user-attachments/assets/d7b03e3e-f2c0-425f-92ca-2c7819a714f0" />
 
