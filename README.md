@@ -70,13 +70,14 @@ http://10.48.172.197/island/2100
 
 <img width="1918" height="908" alt="Screenshot 2026-04-27 210016" src="https://github.com/user-attachments/assets/db83cd0d-6c86-403b-bc07-f5524d1b6219" />
 
-the page says that that "Oliver has fi9nd it's way to Lian_Yu
-<img width="941" height="524" alt="image" src="https://github.com/user-attachments/assets/e92fd473-fc45-44b0-b1de-48fc2461ffda" />
+the page says that that "Oliver has find it's way to Lian_Yu
+
 
 I click on the page to view page source to find any clue.
 
 <img width="838" height="539" alt="Screenshot 2026-05-03 114626" src="https://github.com/user-attachments/assets/2f4e591d-3530-4ede-a18b-9cd5c17f1278" />
 
+<img width="941" height="524" alt="image" src="https://github.com/user-attachments/assets/e92fd473-fc45-44b0-b1de-48fc2461ffda" />
 
 <img width="985" height="275" alt="Screenshot 2026-04-27 214040" src="https://github.com/user-attachments/assets/d7b03e3e-f2c0-425f-92ca-2c7819a714f0" />
 
