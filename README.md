@@ -54,6 +54,29 @@ finding :
 * /sland
 <img width="795" height="22" alt="Screenshot 2026-04-27 010714" src="https://github.com/user-attachments/assets/6659a5a3-09a0-42a0-9768-f6c674c429fb" />
 
+next i run brute force using the previous finding to find more clues
+```
+gobuster dir -u http://10.48.176.254/island -w /usr/share/worlists/dirbuster/directory-list-2.3-medium.txt
+```
+<img width="939" height="283" alt="Screenshot 2026-04-27 012640" src="https://github.com/user-attachments/assets/d04cd02d-4894-4218-9100-dfe9cb9e9fe0" />
+
+Finding: 
+* 2100
+
+i open browser again to run
+```
+http://10.48.172.197/island/2100
+```
+
+<img width="1918" height="908" alt="Screenshot 2026-04-27 210016" src="https://github.com/user-attachments/assets/db83cd0d-6c86-403b-bc07-f5524d1b6219" />
+
+the page says that that "Oliver has fi9nd it's way to Lian_Yu
+<img width="941" height="524" alt="image" src="https://github.com/user-attachments/assets/e92fd473-fc45-44b0-b1de-48fc2461ffda" />
+
+I click on the page to view page source to find any clue.
+
+<img width="838" height="539" alt="Screenshot 2026-05-03 114626" src="https://github.com/user-attachments/assets/2f4e591d-3530-4ede-a18b-9cd5c17f1278" />
+
 
 <img width="985" height="275" alt="Screenshot 2026-04-27 214040" src="https://github.com/user-attachments/assets/d7b03e3e-f2c0-425f-92ca-2c7819a714f0" />
 
@@ -61,13 +84,12 @@ finding :
 
 <img width="307" height="175" alt="Screenshot 2026-04-27 214811" src="https://github.com/user-attachments/assets/0efe6e01-793c-4af6-a0ee-b6bf5ef7a435" />
 
-<img width="939" height="283" alt="Screenshot 2026-04-27 012640" src="https://github.com/user-attachments/assets/d04cd02d-4894-4218-9100-dfe9cb9e9fe0" />
+
 
 <img width="989" height="317" alt="Screenshot 2026-04-27 204648" src="https://github.com/user-attachments/assets/40f7421f-075f-4fdf-acf4-c8bcb03526bd" />
 
 <img width="1036" height="450" alt="Screenshot 2026-04-27 204739" src="https://github.com/user-attachments/assets/a3b15aca-dbbe-4121-83f7-6e1a29f12372" />
 
-<img width="1918" height="908" alt="Screenshot 2026-04-27 210016" src="https://github.com/user-attachments/assets/db83cd0d-6c86-403b-bc07-f5524d1b6219" />
 
 <img width="968" height="605" alt="Screenshot 2026-04-27 213422" src="https://github.com/user-attachments/assets/59138102-6974-4862-8281-8aec699eb14f" />
 
