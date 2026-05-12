@@ -54,6 +54,11 @@ finding :
 * /sland
 <img width="795" height="22" alt="Screenshot 2026-04-27 010714" src="https://github.com/user-attachments/assets/6659a5a3-09a0-42a0-9768-f6c674c429fb" />
 
+Then i /island in the browser
+```
+http://10.48176.245/island
+```
+
 next i run brute force using the previous finding to find more clues
 ```
 gobuster dir -u http://10.48.176.254/island -w /usr/share/worlists/dirbuster/directory-list-2.3-medium.txt
@@ -67,6 +72,14 @@ i open browser again to run
 ```
 http://10.48.172.197/island/2100
 ```
+Finding:
+<img width="989" height="317" alt="image" src="https://github.com/user-attachments/assets/b491fd2a-34d5-4436-b9d5-8bc6b09a3db7" />
+
+FInding(View page source):
+<img width="1036" height="450" alt="image" src="https://github.com/user-attachments/assets/a75e2e88-5bc3-46c5-853a-31d6020a5ce0" />
+
+
+
 
 <img width="1918" height="908" alt="Screenshot 2026-04-27 210016" src="https://github.com/user-attachments/assets/db83cd0d-6c86-403b-bc07-f5524d1b6219" />
 
@@ -77,7 +90,18 @@ I click on the page to view page source to find any clue.
 
 <img width="838" height="539" alt="Screenshot 2026-05-03 114626" src="https://github.com/user-attachments/assets/2f4e591d-3530-4ede-a18b-9cd5c17f1278" />
 
+Finding:
+
+* found somthing off with the .ticket.Then, i run
+
+```
+gobuster dir -u http://10.48.176.254/island -w /usr/share/worlists/dirbuster/directory-list-2.3-medium.txt -x .ticket
+```
 <img width="941" height="524" alt="image" src="https://github.com/user-attachments/assets/e92fd473-fc45-44b0-b1de-48fc2461ffda" />
+
+Finding:
+
+* /green_arrow.ticket
 
 <img width="985" height="275" alt="Screenshot 2026-04-27 214040" src="https://github.com/user-attachments/assets/d7b03e3e-f2c0-425f-92ca-2c7819a714f0" />
 
