@@ -78,8 +78,7 @@ Finding:
 FInding(View page source):
 <img width="1036" height="450" alt="image" src="https://github.com/user-attachments/assets/a75e2e88-5bc3-46c5-853a-31d6020a5ce0" />
 
-
-
+Find hidden text : vigilante
 
 <img width="1918" height="908" alt="Screenshot 2026-04-27 210016" src="https://github.com/user-attachments/assets/db83cd0d-6c86-403b-bc07-f5524d1b6219" />
 
@@ -103,9 +102,19 @@ Finding:
 
 * /green_arrow.ticket
 
+i then visit http://10.48.188.25/island/2100/green_arrow.ticket adnd found code RTy8yhBQdscX
+
 <img width="985" height="275" alt="Screenshot 2026-04-27 214040" src="https://github.com/user-attachments/assets/d7b03e3e-f2c0-425f-92ca-2c7819a714f0" />
 
+i decode it and get !#th3h00d when decoding it as base58.
+
 <img width="153" height="628" alt="Screenshot 2026-04-27 214647" src="https://github.com/user-attachments/assets/79888bbc-3ac7-484f-919c-36081c573a42" />
+
+i test the ftp with credentials: vigilante and !#th3h00d as password
+
+```
+ftp vigilante@10.48.188.24
+```
 
 <img width="307" height="175" alt="Screenshot 2026-04-27 214811" src="https://github.com/user-attachments/assets/0efe6e01-793c-4af6-a0ee-b6bf5ef7a435" />
 
