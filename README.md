@@ -131,10 +131,6 @@ i downloaded the 3 image and also .bash_history
 <img width="1910" height="524" alt="image" src="https://github.com/user-attachments/assets/53afafe7-a4b6-41bd-837d-fa546f86ca76" />
 
 
-<img width="382" height="70" alt="Screenshot 2026-04-27 215306" src="https://github.com/user-attachments/assets/3a658ab1-e977-4329-a0a2-9174eb90d268" />
-
-<img width="599" height="214" alt="Screenshot 2026-04-27 215316" src="https://github.com/user-attachments/assets/4dc2a0e2-dc8d-4357-b197-07b9251a3fb0" />
-
 <img width="559" height="171" alt="Screenshot 2026-04-27 215324" src="https://github.com/user-attachments/assets/9beb4af2-22c2-42bc-88d5-cafc57f517bb" />
 
 <img width="1910" height="524" alt="Screenshot 2026-04-27 215338" src="https://github.com/user-attachments/assets/2f15e025-bd20-4bf9-9f55-b251ffacab8d" />
