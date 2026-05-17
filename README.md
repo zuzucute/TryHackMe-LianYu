@@ -102,7 +102,7 @@ Finding:
 
 * /green_arrow.ticket
 
-i then visit http://10.48.188.25/island/2100/green_arrow.ticket adnd found code RTy8yhBQdscX
+i then visit http://10.48.188.25/island/2100/green_arrow.ticket and found code RTy8yhBQdscX
 
 <img width="985" height="275" alt="Screenshot 2026-04-27 214040" src="https://github.com/user-attachments/assets/d7b03e3e-f2c0-425f-92ca-2c7819a714f0" />
 
@@ -118,17 +118,18 @@ ftp vigilante@10.48.188.24
 
 <img width="307" height="175" alt="Screenshot 2026-04-27 214811" src="https://github.com/user-attachments/assets/0efe6e01-793c-4af6-a0ee-b6bf5ef7a435" />
 
+list all directory contents
 
-
-<img width="989" height="317" alt="Screenshot 2026-04-27 204648" src="https://github.com/user-attachments/assets/40f7421f-075f-4fdf-acf4-c8bcb03526bd" />
-
-<img width="1036" height="450" alt="Screenshot 2026-04-27 204739" src="https://github.com/user-attachments/assets/a3b15aca-dbbe-4121-83f7-6e1a29f12372" />
-
-
-<img width="968" height="605" alt="Screenshot 2026-04-27 213422" src="https://github.com/user-attachments/assets/59138102-6974-4862-8281-8aec699eb14f" />
-
+```
+ls ls
+```
 
 <img width="619" height="229" alt="Screenshot 2026-04-27 214819" src="https://github.com/user-attachments/assets/0da16a47-5a95-47b0-801e-d98e35caedad" />
+
+i downloaded the 3 image and also .bash_history
+
+<img width="1910" height="524" alt="image" src="https://github.com/user-attachments/assets/53afafe7-a4b6-41bd-837d-fa546f86ca76" />
+
 
 <img width="382" height="70" alt="Screenshot 2026-04-27 215306" src="https://github.com/user-attachments/assets/3a658ab1-e977-4329-a0a2-9174eb90d268" />
 
