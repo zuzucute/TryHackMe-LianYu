@@ -133,8 +133,6 @@ i downloaded the 3 image and also .bash_history
 
 <img width="559" height="171" alt="Screenshot 2026-04-27 215324" src="https://github.com/user-attachments/assets/9beb4af2-22c2-42bc-88d5-cafc57f517bb" />
 
-<img width="1910" height="524" alt="Screenshot 2026-04-27 215338" src="https://github.com/user-attachments/assets/2f15e025-bd20-4bf9-9f55-b251ffacab8d" />
-
 <img width="926" height="283" alt="Screenshot 2026-04-28 160050" src="https://github.com/user-attachments/assets/4fd11e51-cf67-4dc1-b645-92b28e4c6a9c" />
 
 <img width="201" height="39" alt="Screenshot 2026-04-28 160323" src="https://github.com/user-attachments/assets/381399f4-75df-49d0-8f90-973e336066b3" />
@@ -154,22 +152,6 @@ i downloaded the 3 image and also .bash_history
 <img width="885" height="118" alt="Screenshot 2026-04-28 162719" src="https://github.com/user-attachments/assets/5d706163-8e96-4e06-98f2-0a682fbe70d0" />
 
 <img width="770" height="288" alt="Screenshot 2026-04-28 162901" src="https://github.com/user-attachments/assets/39d60bc6-19e9-4c95-822e-0aa9455d8d36" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
