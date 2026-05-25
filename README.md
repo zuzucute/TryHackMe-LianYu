@@ -141,19 +141,64 @@ mget aa.jpg
 
 <img width="201" height="39" alt="Screenshot 2026-04-28 160323" src="https://github.com/user-attachments/assets/381399f4-75df-49d0-8f90-973e336066b3" />
 
+Ran stegseek aa.jpg against the rockyou.txt wordlist to crack the steganographic passphrase, extracting a hidden zip called ss.zip
+
+```
+stegseek aa.jpg /usr/share/wordlists/rockyou.txt
+```
+
 <img width="451" height="110" alt="Screenshot 2026-04-28 162034" src="https://github.com/user-attachments/assets/e5a7ba74-bc74-4acf-b31c-eb2dfb8e8c22" />
 
+i use unzip ss.zip to extract files and found passwd.txt and shado
+
+```
+unzip ss.zip
+```
 <img width="233" height="100" alt="Screenshot 2026-04-28 162121" src="https://github.com/user-attachments/assets/abed1c81-ef70-4aec-a544-a636eb2a4dfe" />
+
+ then i use cat passwd.txt to read the content of the files and found
+
+ ```
+cat passwd.txt
+```
 
 <img width="673" height="232" alt="Screenshot 2026-04-28 162156" src="https://github.com/user-attachments/assets/54a673bc-24ea-4a7f-8b93-959bffa7108b" />
 
+i also ran cat shado to extract SSH password:M3tahuman
+
+```
+cat shado
+```
+
 <img width="184" height="80" alt="Screenshot 2026-04-28 162211" src="https://github.com/user-attachments/assets/edb68ca2-6c47-47ca-b687-f09ce255054f" />
 
+i execute ssh slade@10.48.143.42 and inputted the passsword which is M3tahuman.
+```
+ssh slade@10.48.143.42
+```
 <img width="656" height="509" alt="Screenshot 2026-04-28 162508" src="https://github.com/user-attachments/assets/4410f429-486e-407d-92e9-9938c4d65bb3" />
+
+to locate and read the user flag, i run ls to list the home directory contents and i discover user.txt. then i run cat user.txt and found the first flag THM{P30P7E_K33P_53CRET5__C0MPUT3R5_D0N'T} --Felicity Smoak
+
+```
+ls
+```
 
 <img width="351" height="98" alt="Screenshot 2026-04-28 162535" src="https://github.com/user-attachments/assets/f38be2c8-9937-433b-81cc-2d3eeebd9fa2" />
 
+to check for sudo permission, i use ls -l and found that i can run as a root without password.
+
+```
+ls -l
+```
+
 <img width="885" height="118" alt="Screenshot 2026-04-28 162719" src="https://github.com/user-attachments/assets/5d706163-8e96-4e06-98f2-0a682fbe70d0" />
+
+i run sudo pkexec /bin/sh for root access and run whoami to confirm directory as a root. then i use cat /root/root.txt to retrieve the root flag.
+
+```
+car /root/root.txt
+```
 
 <img width="770" height="288" alt="Screenshot 2026-04-28 162901" src="https://github.com/user-attachments/assets/39d60bc6-19e9-4c95-822e-0aa9455d8d36" />
 
