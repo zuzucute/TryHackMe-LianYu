@@ -194,7 +194,7 @@ ls -l
 
 <img width="885" height="118" alt="Screenshot 2026-04-28 162719" src="https://github.com/user-attachments/assets/5d706163-8e96-4e06-98f2-0a682fbe70d0" />
 
-i run sudo pkexec /bin/sh for root access and run whoami to confirm directory as a root. then i use cat /root/root.txt to retrieve the root flag.
+i run sudo pkexec /bin/sh for root access and run whoami to confirm directory as a root. then i use cat /root/root.txt to retrieve the root flag THM{MY_W0RD_I5_MY_B0ND_IF_I_ACC3PT_Y0UR_C0NTRACT_THEN_IT_WILL_BE_C0MPL3TED_0R_I'LL_BE_D34D} --DEATHSTROKE
 
 ```
 car /root/root.txt
